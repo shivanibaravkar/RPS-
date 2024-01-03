@@ -12,4 +12,4 @@ I developed this Rock paper sissors game code in python
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors.git
+   https://github.com/shivanibaravkar/RPS-
